@@ -11,7 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://180.95.235.27:8088/home/workspace/RSF/app/apk/ios/MovePortal_GS_1.0.1.ipa</string>
+					<string>https://180.95.235.27:6180/home/workspace/RSF/app/apk/ios/MovePortal_GS_1.0.1.ipa</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -19,7 +19,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://180.95.235.27:8088//home/workspace/RSF//app/apk/ios/renwoxing.png</string>
+					<string>https://180.95.235.27:6180//home/workspace/RSF//app/apk/ios/renwoxing.png</string>
 				</dict>
 				<dict>
 					<key>kind</key>
@@ -27,7 +27,7 @@
 					<key>needs-shine</key>
 					<false/>
 					<key>url</key>
-					<string>http://180.95.235.27:8088//home/workspace/RSF//app/apk/ios/renwoxing.png</string>
+					<string>https://180.95.235.27:6180//home/workspace/RSF//app/apk/ios/renwoxing.png</string>
 				</dict>
 			</array>
 			<key>metadata</key>
